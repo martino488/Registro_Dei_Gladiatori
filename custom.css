@@ -1,0 +1,24 @@
+#gladiatore{
+    color: red;
+    width: 10%;
+}
+
+
+#vittorie{
+    color: green;
+    width: 12%;
+}
+
+#mediaVittorie{
+    color: orange;
+    width: 13%;
+}
+
+#stato{
+    color: blue;
+    width: 15%;
+}
+
+th{
+    text-align: center;
+}
